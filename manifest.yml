@@ -1,0 +1,6 @@
+---
+applications:
+- name: mobileapplication
+  memory: 256M
+  host: mobileapplication12
+  domain: eu-gb.mybluemix.net
